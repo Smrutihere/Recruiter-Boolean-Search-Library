@@ -39,7 +39,19 @@ Help recruiters source better candidates faster using optimized Boolean search s
 - [Java Developer](technical/java-developer.md)
 - [Data Engineer](technical/data-engineer.md)
 - [DevOps Engineer](technical/devops-engineer.md)
-
+- [.NET Developer](technical/dotnet-developer.md)
+- [Python Developer](technical/python-developer.md)
+- [AI Engineer](technical/ai-engineer.md)
+- [Machine Learning Engineer](technical/machine-learning-engineer.md)
+- [AWS Architect](technical/aws-architect.md)
+- [Azure Architect](technical/azure-architect.md)
+- [Salesforce Developer](technical/salesforce-developer.md)
+- [SAP Consultant](technical/sap-consultant.md)
+- [Cybersecurity Engineer](technical/cybersecurity-engineer.md)
+- [Product Manager](technical/product-manager.md)
+- [QA Automation Engineer](technical/qa-automation-engineer.md)
+- [Network Engineer](technical/network-engineer.md)
+- [Site Reliability Engineer](technical/site-reliability-engineer.md)
 ## Functional Searches
 
 - [Business Analyst](functional/business-analyst.md)
